@@ -1,35 +1,35 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
-     "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
-     "joinGcExtream": true,
+     "namalu" : "RIELGANS",
+     "nomerlu": "6282146218274",
+     "namabot": "RIEL BOTZ",
+     "nomerbot": "6281251497082",
+     "gender" : "male",
+     "copyright" : "RIELKUN<",
+     "namaDocument": "RIEL BOTZ",
+     "joinGcExtream": false,
 
      "publik": true,
      "forwarding": false,
      "Loading": false,
-     "antitroli" : false,
+     "antitroli" : true,
      
-     "autovn" : false,
-     "autosticker" : false,
-     "autorespon" : false,
+     "autovn" : true,
+     "autosticker" : true,
+     "autorespon" : true,
      "autotyping" : false,
      "autoread" : true,
      "autoblockcmd" : false, 
      "autobio" : true,
      "autoLevel" : true,
-     "AutoClearChat": true,
+     "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
      "jumlahTroli": 2022,
      
      "Jika ada yang telpon, bot bakal kirim bug  ke penelpon jika aktikan fitur sendbug": "ke true",
        "Anticall": true,
-      "sendbug": true,
+      "sendbug": false,
      
      "SetFunction": {
      "Daftar_Font": "block, slick, tiny, grid, pallet, shade, chrome, simple, simpleBlock, 3d, simple3d, huge, console",        
@@ -59,17 +59,17 @@
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": false,
+     "autoWelcome": true,
      "welcomeType": "type3",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
      
      "setMenu": "document",    
-      "setBc":  "lokasi",  
-     "setReply": "web",  
+      "setBc":  "troli",  
+     "setReply": "vidio",  
      "setQuoted": "ftoko",
      
-     "gamewaktu": 60,
+     "gamewaktu": 120,
 	 "limitCount": 30,
 	 "gcount": {
 	 "prem": 60,
