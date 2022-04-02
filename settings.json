@@ -11,7 +11,7 @@
 
      "publik": true,
      "forwarding": false,
-     "Loading": false,
+     "Loading": true,
      "antitroli" : true,
      
      "autovn" : true,
@@ -66,7 +66,7 @@
      
      "setMenu": "document",    
       "setBc":  "troli",  
-     "setReply": "web",  
+     "setReply": "mess",  
      "setQuoted": "ftoko",
      
      "gamewaktu": 120,
