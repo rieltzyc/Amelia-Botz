@@ -5,14 +5,14 @@ return`
 *│* Bantu Developer ngembangin bot ini
 *│* dengan donasi seiklasnya 🙂
 *│*
-*│* Shopee : 085156137901
-*│* Gopay : 085156137901
-*│* Dana : 085156137901
-*│* Ovo : 085156137901
+*│* Shopee : *gada Banh*
+*│* Gopay : *gada Banh*
+*│* Dana : *gada Banh*
+*│* pulsa : 083813417529
 *│*
 *│* Makasih yang udah donasi
 *│* dan bantu ngembangin bot ini
-*│* moga rejekinya lancar amin
+*│* moga rejekinya lancar amin..
 *┬*
 *╰────────────[*`
 }
