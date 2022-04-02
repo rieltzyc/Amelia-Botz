@@ -24,21 +24,13 @@ return`
 
 *▸* SCRIPT BY
    Decode Denpa
-   X-Dev Team
-   Yogi PW
-   Hexagon
-   Dttaz
+   Riel official
+     
 
 *▸* FEATURE  BY  
    Decode Denpa
    Fernazer
-   X-Dev Team
-   Resta Gamteng
-   Zeeone Ofc
-   X-Dev Team
-   Yudha perdana
-   Xchilds
-   Dika Ardnt
+   Riel official
 `
 }
 
