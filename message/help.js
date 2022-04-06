@@ -526,7 +526,7 @@ ${week}, ${calender}
 *╰────────────⦁*
 
 *╭─❲ THANKS TO ❳*
-*│*
+*│* • RIEL GAMTENG :V
 *│* • Dittaz
 *│* • Nina Kawai
 *│* • Resta Gamteng :v
@@ -537,7 +537,7 @@ ${week}, ${calender}
 *│* • Fernazer
 *│* • X - Dev Team
 *│* • XChillDs & Yuzu
-*│* • Dika Ardnt
-*│*
+*│
+*│
 *╰────────────⦁*`
 }
