@@ -16,7 +16,7 @@
      
      "autovn" : true,
      "autosticker" : true,
-     "autorespon" : true,
+     "autorespon" : false,
      "autotyping" : false,
      "autoread" : true,
      "autoblockcmd" : false, 
@@ -24,7 +24,7 @@
      "autoLevel" : true,
      "AutoClearChat": false,
      "totalForward" : 1000000,
-     "explain": false,
+     "explain": true,
      "jumlahTroli": 2022,
      
      "Jika ada yang telpon, bot bakal kirim bug  ke penelpon jika aktikan fitur sendbug": "ke true",
@@ -67,7 +67,7 @@
      "setMenu": "document",    
       "setBc":  "troli",  
      "setReply": "mess",  
-     "setQuoted": "ftoko",
+     "setQuoted": "fkontak",
      
      "gamewaktu": 120,
 	 "limitCount": 30,
